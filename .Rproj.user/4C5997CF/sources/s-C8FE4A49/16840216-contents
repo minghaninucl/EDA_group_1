@@ -1,9 +1,0 @@
-name: "eda project"
-output_dir: "docs" ## there must be a space
-navbar:
-  title: "My haha"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
