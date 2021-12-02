@@ -1,7 +1,7 @@
-name: "my-website"
+name: "eda project"
 output_dir: "docs" ## there must be a space
 navbar:
-  title: "My Website"
+  title: "My haha"
   left:
     - text: "Home"
       href: index.html
